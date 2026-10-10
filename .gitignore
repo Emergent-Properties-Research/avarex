@@ -15,7 +15,9 @@ Podfile.lock
 .buildlog/
 .history
 .svn/
+.wiki/
 migrate_working_dir/
+AGENTS.md
 
 # IntelliJ related
 *.iml
